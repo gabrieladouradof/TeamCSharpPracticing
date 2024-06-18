@@ -1,0 +1,5 @@
+C:\dev\TesteBlog\TesteBlog\obj\Debug\net8.0\TesteBlog.csproj.AssemblyReference.cache
+C:\dev\TesteBlog\TesteBlog\obj\Debug\net8.0\TesteBlog.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\TesteBlog\TesteBlog\obj\Debug\net8.0\TesteBlog.AssemblyInfoInputs.cache
+C:\dev\TesteBlog\TesteBlog\obj\Debug\net8.0\TesteBlog.AssemblyInfo.cs
+C:\dev\TesteBlog\TesteBlog\obj\Debug\net8.0\TesteBlog.csproj.CoreCompileInputs.cache

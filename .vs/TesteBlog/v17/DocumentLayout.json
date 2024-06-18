@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\TesteBlog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94ABC997-7ABF-40A0-9041-1A59E48B7FE4}|TesteBlog\\TesteBlog.csproj|c:\\dev\\testeblog\\testeblog\\data\\blogdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94ABC997-7ABF-40A0-9041-1A59E48B7FE4}|TesteBlog\\TesteBlog.csproj|solutionrelative:testeblog\\data\\blogdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94ABC997-7ABF-40A0-9041-1A59E48B7FE4}|TesteBlog\\TesteBlog.csproj|c:\\dev\\testeblog\\testeblog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94ABC997-7ABF-40A0-9041-1A59E48B7FE4}|TesteBlog\\TesteBlog.csproj|solutionrelative:testeblog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94ABC997-7ABF-40A0-9041-1A59E48B7FE4}|TesteBlog\\TesteBlog.csproj|c:\\dev\\testeblog\\testeblog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{94ABC997-7ABF-40A0-9041-1A59E48B7FE4}|TesteBlog\\TesteBlog.csproj|solutionrelative:testeblog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94ABC997-7ABF-40A0-9041-1A59E48B7FE4}|TesteBlog\\TesteBlog.csproj|c:\\dev\\testeblog\\testeblog\\testeblog.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{94ABC997-7ABF-40A0-9041-1A59E48B7FE4}|TesteBlog\\TesteBlog.csproj|solutionrelative:testeblog\\testeblog.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlogDataContext.cs",
+              "DocumentMoniker": "C:\\dev\\TesteBlog\\TesteBlog\\Data\\BlogDataContext.cs",
+              "RelativeDocumentMoniker": "TesteBlog\\Data\\BlogDataContext.cs",
+              "ToolTip": "C:\\dev\\TesteBlog\\TesteBlog\\Data\\BlogDataContext.cs*",
+              "RelativeToolTip": "TesteBlog\\Data\\BlogDataContext.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T13:29:29.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TesteBlog",
+              "DocumentMoniker": "C:\\dev\\TesteBlog\\TesteBlog\\TesteBlog.csproj",
+              "RelativeDocumentMoniker": "TesteBlog\\TesteBlog.csproj",
+              "ToolTip": "C:\\dev\\TesteBlog\\TesteBlog\\TesteBlog.csproj",
+              "RelativeToolTip": "TesteBlog\\TesteBlog.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-07T13:28:54.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\dev\\TesteBlog\\TesteBlog\\appsettings.json",
+              "RelativeDocumentMoniker": "TesteBlog\\appsettings.json",
+              "ToolTip": "C:\\dev\\TesteBlog\\TesteBlog\\appsettings.json",
+              "RelativeToolTip": "TesteBlog\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-06T22:30:58.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\TesteBlog\\TesteBlog\\Program.cs",
+              "RelativeDocumentMoniker": "TesteBlog\\Program.cs",
+              "ToolTip": "C:\\dev\\TesteBlog\\TesteBlog\\Program.cs*",
+              "RelativeToolTip": "TesteBlog\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:35:11.926Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
